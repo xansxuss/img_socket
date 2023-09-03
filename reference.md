@@ -1,0 +1,7 @@
+[Sending Image (JPEG) through Socket in C Linux](https://stackoverflow.com/questions/15445207/sending-image-jpeg-through-socket-in-c-linux/22419025#22419025?newreg=82f5d7a9609343a48806a53a866398ae)
+[Sending Images over C++ Sockets (Linux)](https://stackoverflow.com/questions/3125080/sending-images-over-c-sockets-linux?rq=3)
+[problem sending image file over the socket in c](https://stackoverflow.com/questions/4790336/problem-sending-image-file-over-the-socket-in-c?rq=3)
+[Sending images over sockets](https://stackoverflow.com/questions/13097375/sending-images-over-sockets?rq=3)
+[Send images via sockets in C++](https://stackoverflow.com/questions/15777479/send-images-via-sockets-in-c?rq=3)
+[C++ OpenCV image sending through socket](https://stackoverflow.com/questions/20314524/c-opencv-image-sending-through-socket)
+[How to transfer cv::VideoCapture frames through socket in client-server model (OpenCV C++)?](https://stackoverflow.com/questions/47881656/how-to-transfer-cvvideocapture-frames-through-socket-in-client-server-model-o)
